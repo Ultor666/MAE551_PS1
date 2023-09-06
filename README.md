@@ -1,0 +1,3 @@
+# MAE551_PS1
+Solutions to problem set 1 for MAE551 for Fall 2023
+This repo contains solutions to all the problems in the given problem set and the files are names as such. Eg: PS1_p1, PS1_p2,...
